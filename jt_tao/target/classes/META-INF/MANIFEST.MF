@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
 Implementation-Title: jt-mybatis
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.tedu
-Build-Jdk: 1.7.0_15
 Built-By: Administrator
-Created-By: Maven Integration for Eclipse
+Implementation-Vendor-Id: com.tedu
+Build-Jdk: 1.8.0_45
 Implementation-URL: http://projects.spring.io/spring-boot/jt-mybatis/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
